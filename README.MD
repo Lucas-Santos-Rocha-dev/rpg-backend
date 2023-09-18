@@ -9,7 +9,7 @@ que visa:
 
 ## RPG-FRONTEND
 
-O repositório do front do projeto pode ser encontrado no seguinte link:
+O código do frontend do projeto pode ser encontrado no repositório [frontend](https://github.com/Lucas-Santos-Rocha-dev/rpg-frontend)
 
 ## ATENÇÂO
 
