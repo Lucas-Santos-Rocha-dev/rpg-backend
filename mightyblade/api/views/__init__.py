@@ -1,0 +1,2 @@
+from .categoria_habilidade_viewset import CategoriaHabilidadeViewSet
+from .tipo_habilidade_viewset import TipoHabilidadeViewSet

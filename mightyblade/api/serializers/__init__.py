@@ -1,0 +1,2 @@
+from .categoria_habilidade_serializer import CategoriaHabilidadeSerializer
+from .tipo_habilidade_serializer import TipoHabilidadeSerializer
